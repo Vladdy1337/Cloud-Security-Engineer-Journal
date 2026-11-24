@@ -19,8 +19,17 @@ the way.
 
 ### November 24, 2026
 
-#### Aws Educate
+### Aws Educate
 Completed: 
+##### 1. Introduction to the AWS Cloud and Sustainability
 
-##### Introduction to the AWS Cloud and Sustainability
+   ##### What did I learn about?
+       AWS as a cloud service provider
+       
+       Benefits of cloud computing on AWS
 
+       Ways that AWS approaches security in the cloud
+       
+       The AWS sustainability commitment
+
+##### 2.
